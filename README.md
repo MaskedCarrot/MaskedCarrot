@@ -3,6 +3,7 @@
 I am Apoorv Srivastava.
 
 ### Social Links
+
 <a href="https://www.linkedin.com/in/MaskedCarrot/">
   <img align="left" alt="Apoorv's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -13,6 +14,9 @@ I am Apoorv Srivastava.
   <img align="left" alt="Apoorv's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 
+##
 
+
+     
 ### Stats
 ![Apoorv's Github Stats](https://github-readme-stats.vercel.app/api?username=MaskedCarrot&show_icons=true&include_all_commits=true&count_private=true&theme=default&show_icons=true)
