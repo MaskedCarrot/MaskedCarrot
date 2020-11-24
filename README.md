@@ -1,16 +1,18 @@
 ### Hi there 👋
+ 
+I am Apoorv Srivastava.
 
-<!--
-**MaskedCarrot/MaskedCarrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Social Links
+<a href="https://www.linkedin.com/in/MaskedCarrot/">
+  <img align="left" alt="Apoorv's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/MaskedCarrot">
+  <img align="left" alt="MaskedCarrot's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://stackoverflow.com/users/12505541/apoorv-srivastava">
+  <img align="left" alt="Apoorv's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+![Apoorv's Github Stats](https://github-readme-stats.vercel.app/api?username=MaskedCarrot&show_icons=true&include_all_commits=true&count_private=true&theme=default&show_icons=true)
