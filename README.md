@@ -5,6 +5,8 @@ I am Apoorv Srivastava.
 ## Stats
 ![Apoorv's Github Stats](https://github-readme-stats.vercel.app/api?username=MaskedCarrot&show_icons=true&include_all_commits=true&count_private=true&theme=default&show_icons=true)
 
+[![Apoorv's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaskedCarrot)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## Social Links
