@@ -3,7 +3,7 @@
 I am Apoorv Srivastava.
 
 ## Stats
-![Apoorv's Github Stats](https://github-readme-stats.vercel.app/api?username=MaskedCarrot&show_icons=true&include_all_commits=true&count_private=true&theme=default&show_icons=true)
+![Apoorv's Github Stats](https://github-readme-stats.vercel.app/api?username=MaskedCarrot&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&show_icons=true)
 
 
 
